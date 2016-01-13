@@ -1,0 +1,6 @@
+c:\users\livne\documents\visual studio 2013\Projects\Client Tester\Client Tester\bin\Debug\Client Tester.exe.config
+c:\users\livne\documents\visual studio 2013\Projects\Client Tester\Client Tester\bin\Debug\Client Tester.exe
+c:\users\livne\documents\visual studio 2013\Projects\Client Tester\Client Tester\bin\Debug\Client Tester.pdb
+c:\users\livne\documents\visual studio 2013\Projects\Client Tester\Client Tester\obj\Debug\Client Tester.csprojResolveAssemblyReference.cache
+c:\users\livne\documents\visual studio 2013\Projects\Client Tester\Client Tester\obj\Debug\Client Tester.exe
+c:\users\livne\documents\visual studio 2013\Projects\Client Tester\Client Tester\obj\Debug\Client Tester.pdb
